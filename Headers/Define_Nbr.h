@@ -1,0 +1,10 @@
+#ifndef DEFINE_NBR_H
+#define DEFINE_NBR_H
+#define NBR_ROUTES 37
+#define NBR_CALENDAR 381
+#define NBR_CALENDAR_DATE 2095
+#define NBR_STOP_TIMES 3042868
+#define NBR_STOPS 759
+#define NBR_TRANSFERS 12705
+#define NBR_TRIPS 127438
+#endif
